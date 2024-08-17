@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaDiscord, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import Logo_HS from '../assets/Logo_HS.svg';
-
+{/* https://www.figma.com/design/sepzKeitS2xEaHFLYkILEx/Projeto-Site-Pessoal-(Community)?node-id=83-46&t=k8gqmpfJyuOHfw5N-0 */}
 
 
 const Footer: React.FC = () => {
